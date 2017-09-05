@@ -16,5 +16,5 @@ void pound (int n)
 {
 	while (n-- > 0)
 		printf("#");
-	printf("\n");ss
+	printf("\n");
 }
